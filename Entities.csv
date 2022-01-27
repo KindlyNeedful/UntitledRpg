@@ -1,0 +1,5 @@
+id,name,image,interactions
+0,tree,entity-images\tree1.png,chop
+1,rock,entity-images\rock1.png,
+2,chest,entity-images\chestClosed1.png,open
+3,chest,entity-images\chestOpen1.png,
